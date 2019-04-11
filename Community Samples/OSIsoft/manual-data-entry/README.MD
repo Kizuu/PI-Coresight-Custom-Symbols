@@ -1,6 +1,6 @@
 ## Manual Data Entry symbol  
 
-This symbol is for PI Vision version 2017.
+This symbol prototype is for PI Vision version 2017.
 
 <img src="https://github.com/AnnaPerry/PI-Coresight-Custom-Symbols/blob/master/Community%20Samples/OSIsoft/manual-data-entry/Example.png" 
 alt="Manual Data Entry for PI Coresight" />
